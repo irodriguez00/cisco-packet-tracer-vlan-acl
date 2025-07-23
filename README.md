@@ -1,4 +1,4 @@
-# Cisco Packet Tracer — Proyecto propio de red empresarial
+# Diseño de Red Empresarial con Cisco Packet Tracer
 
 Este es un proyecto propio diseñado y configurado por mí en **Cisco Packet Tracer**, simulando la infraestructura de una red empresarial segmentada y segura.
 
