@@ -49,4 +49,5 @@ El objetivo de este proyecto fue crear una red empresarial simulada con segmenta
 ## 📌 Autor
 
 **Ignacio Rodriguez**  
+
 [https://www.linkedin.com/in/ignacio-rodriguez00/](https://www.linkedin.com/in/ignacio-rodriguez00/)  
