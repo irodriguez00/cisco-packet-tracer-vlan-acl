@@ -4,7 +4,7 @@ Este es un proyecto propio diseñado y configurado por mí en **Cisco Packet Tra
 
 ## 🔷 Descripción
 
-El objetivo de este proyecto fue crear una red empresarial simulada con segmentación lógica mediante VLANs, políticas de acceso mediante ACLs y un servidor con servicios esenciales. Todo el diseño, configuración y pruebas fueron realizados por mí desde cero.
+El objetivo de este proyecto fue crear una red empresarial simulada con segmentación lógica mediante VLANs, políticas de acceso mediante ACLs y un servidor con servicios esenciales.
 
 ## 🖥️ Topología
 
@@ -34,6 +34,15 @@ El objetivo de este proyecto fue crear una red empresarial simulada con segmenta
 ✅ ACLs para restringir tráfico entre VLANs  
 ✅ Servidor configurado con HTTP, DNS y Syslog  
 ✅ Pruebas de conectividad para validar políticas
+
+## 💡 Aprendizajes
+
+Durante este proyecto, fortalecí mis habilidades en:
+
+- Diseño de redes segmentadas con seguridad básica
+- Implementación de reglas de control de acceso (ACLs)
+- Solución de problemas de conectividad entre VLANs
+- Configuración de servicios de red en un entorno simulado
 
 ## #️⃣ **Tecnologías usadas**
 - Cisco Packet Tracer
