@@ -54,11 +54,13 @@ Durante este proyecto, fortalecí mis habilidades en:
 
 Estos son algunos de los comandos utilizados para validar la configuración de la red:
 
+```bash
 show vlan brief         # Verifica la configuración y asignación de VLANs
 show ip interface brief # Muestra interfaces y direcciones IP asignadas
 show access-lists       # Lista las ACLs aplicadas
 show running-config     # Muestra la configuración actual del dispositivo
 ping [IP]               # Realiza pruebas de conectividad entre VLANs
+```
 
 ## 📁 Archivos
 
