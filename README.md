@@ -35,23 +35,18 @@ El objetivo de este proyecto fue crear una red empresarial simulada con segmenta
 ✅ Servidor configurado con HTTP, DNS y Syslog  
 ✅ Pruebas de conectividad para validar políticas
 
-## 📁 Archivos
-
-- [proyecto red.pkt](proyecto%20red.pkt) — Archivo de Cisco Packet Tracer.
-- [proyecto packet tracer.mp4](proyecto%20packet%20tracer.mp4) — Video demostración.
-- [README.md](README.md) — Este documento.
-
-## 📌 Autor
-
-**Ignacio Rodriguez**  
-[https://www.linkedin.com/in/ignacio-rodriguez00/](https://www.linkedin.com/in/ignacio-rodriguez00/)  
-
----
-
 #️⃣ **Tecnologías usadas**
 - Cisco Packet Tracer
 - VLANs
 - ACLs
 - Servicios de red: HTTP/DNS/Syslog
 
----
+## 📁 Archivos
+
+- [proyecto red.pkt](proyecto%20red.pkt) — Archivo de Cisco Packet Tracer.
+- [proyecto packet tracer.mp4](proyecto%20packet%20tracer.mp4) — Video demostración.
+  
+## 📌 Autor
+
+**Ignacio Rodriguez**  
+[https://www.linkedin.com/in/ignacio-rodriguez00/](https://www.linkedin.com/in/ignacio-rodriguez00/)  
