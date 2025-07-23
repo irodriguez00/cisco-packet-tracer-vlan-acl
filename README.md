@@ -1,10 +1,10 @@
 # Diseño de Red Empresarial con Cisco Packet Tracer
 
-Este es un proyecto propio diseñado y configurado por mí en **Cisco Packet Tracer**, simulando la infraestructura de una red empresarial segmentada y segura.
+Proyecto desarrollado en Cisco Packet Tracer, que simula la infraestructura de una red empresarial segmentada y segura.
 
 ## 🔷 Descripción
 
-El objetivo de este proyecto fue crear una red empresarial simulada con segmentación lógica mediante VLANs, políticas de acceso mediante ACLs y un servidor con servicios esenciales.
+El objetivo fue crear una red empresarial simulada con segmentación lógica mediante VLANs, control de acceso con ACLs y un servidor que brinda servicios esenciales.
 
 ## 🖥️ Topología
 
