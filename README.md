@@ -35,7 +35,7 @@ El objetivo de este proyecto fue crear una red empresarial simulada con segmenta
 ✅ Servidor configurado con HTTP, DNS y Syslog  
 ✅ Pruebas de conectividad para validar políticas
 
-#️⃣ **Tecnologías usadas**
+## #️⃣ **Tecnologías usadas**
 - Cisco Packet Tracer
 - VLANs
 - ACLs
