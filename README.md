@@ -37,9 +37,9 @@ El objetivo de este proyecto fue crear una red empresarial simulada con segmenta
 
 ## 📁 Archivos
 
-- `proyecto red.pkt` — Archivo de Cisco Packet Tracer.
-- `proyecto packet tracer.mp4` — Video demostración 
-- `README.md` — Este documento.
+- [proyecto red.pkt](proyecto%20red.pkt) — Archivo de Cisco Packet Tracer.
+- [proyecto packet tracer.mp4](proyecto%20packet%20tracer.mp4) — Video demostración.
+- [README.md](README.md) — Este documento.
 
 ## 📌 Autor
 
