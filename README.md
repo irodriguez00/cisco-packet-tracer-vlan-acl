@@ -44,7 +44,7 @@ Durante este proyecto, fortalecí mis habilidades en:
 - Solución de problemas de conectividad entre VLANs
 - Configuración de servicios de red en un entorno simulado
 
-## #️⃣ **Tecnologías usadas**
+## 🛠️ **Tecnologías usadas**
 - Cisco Packet Tracer
 - VLANs
 - ACLs
