@@ -1,6 +1,6 @@
 # Diseño de Red Empresarial con Cisco Packet Tracer
 
-Proyecto desarrollado en Cisco Packet Tracer, que simula la infraestructura de una red empresarial segmentada y segura
+Proyecto desarrollado en Cisco Packet Tracer, que simula la infraestructura de una red empresarial segmentada y segura.
 
 ## 🔷 Descripción
 
